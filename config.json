@@ -4,7 +4,7 @@
     "up_date": "2025-09-23",
     "selector": "a[rel='bookmark']",
     "pattern": "https?://yy.yudou66.top/[^<>\\r\\n]+",
-    "password": "5599",
+    "password": "3377",
     "yt_idx": 0,
     "script": "multiDecrypt(arguments[0]);"
   },
